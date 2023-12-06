@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Claude</h1>
-<h3 align="center">A passionate full-stack developer from Toulouse</h3>
+<h3 align="center">A passionate full-stack developer from Bayonne</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
